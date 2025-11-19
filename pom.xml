@@ -73,7 +73,11 @@ under the License.
 		<module>flink-streaming-java</module>
 
 		<module>flink-runtime</module>
+		<module>flink-optimizer</module>
+		<module>flink-clients</module>
 
+		<module>flink-state-backends</module>
+		<module>flink-filesystems</module>
 	</modules>
 
 	<properties>
